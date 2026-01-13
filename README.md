@@ -8,7 +8,7 @@ File: diagrams/task1-bpmn.png
 Product publication feature for marketplace seller:
 - BPMN diagram: diagrams/task2-bpmn.png
 - User Story and Use Cases: docs/task2-use-cases.pdf
-
+- 
 ## Task 3
 User registration:
 - REST API specification
