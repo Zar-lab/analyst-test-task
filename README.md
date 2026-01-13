@@ -1,17 +1,26 @@
-# Analyst Test Task
+# Тестовое задание на позицию аналитика
 
-## Task 1
-BPMN 2.0 model of IT equipment issuance process  
-File: diagrams/task1-bpmn.png
+## Задача 1
+BPMN 2.0 модель процесса выдачи ИТ-оборудования в компании.
 
-## Task 2
-Product publication feature for marketplace seller:
-- BPMN diagram: diagrams/task2-bpmn.png
-- User Story and Use Cases: docs/task2-use-cases.pdf
-- 
-## Task 3
-User registration:
-- REST API specification
-- Error handling
-- Backend user creation algorithm  
-File: docs/task3-rest-api.pdf
+Файл:
+- diagrams/task1-bpmn.png
+
+## Задача 2
+Проработка функциональности публикации товара продавцом на маркетплейсе:
+- BPMN-диаграмма процесса
+- User Story
+- Use Case
+
+Файлы:
+- diagrams/task2-bpmn.png
+- docs/task2-use-cases.pdf
+
+## Задача 3
+Регистрация пользователя:
+- описание REST API
+- обработка ошибок
+- пошаговый алгоритм создания пользователя на стороне бэкенда
+
+Файл:
+- docs/task3-rest-api.pdf
